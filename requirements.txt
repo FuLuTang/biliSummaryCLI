@@ -1,0 +1,5 @@
+PyQt6>=6.4.0
+yt-dlp>=2024.1.0
+openai>=1.0.0
+openai-whisper>=20231117
+requests>=2.31.0
